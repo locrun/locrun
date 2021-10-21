@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-Header
+![Header](https://github.com/locrun/locrun/blob/master/assets/270b.png) ###Добро пожаловать! Меня зовут Рунар. Я Frontend-разработчик. Пишу на JavaScript и React JS.
 
 languages and tools
 
-=======
-### Hi there 👋
->>>>>>> 85d8f0c049b3d0d2083d39cf7c39fb2e2f75af67
+Follow my
