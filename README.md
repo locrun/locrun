@@ -16,4 +16,6 @@
 
 ## Я всегда на связи в Telegram
 
-![https://t.me/rN_el](https://img.shields.io/badge/-telegram-090909?style=social&logo=telegram)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/rN_el)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=social&logo=Linkedin)](https://www.linkedin.com/in/runar-nazmutdinov-3509161aa/)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=social&logo=Gmail)](https://mail.google.com/mail/u/0/#inbox)
