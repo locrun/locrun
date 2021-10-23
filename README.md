@@ -11,3 +11,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05030)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=#FF7362)
+
+<br/>
+
+## Я всегда на связи в Telegram
+
+![https://t.me/rN_el](https://img.shields.io/badge/-telegram-090909?style=social&logo=telegram)
