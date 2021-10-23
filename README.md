@@ -4,13 +4,13 @@
 
 ## В работе использую следующий стек технологий и инструменты
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=EFD81D)
-![React](https://img.shields.io/badge/-React_JS-090909?style=for-the-badge&logo=react&logoColor=#FFFFFF)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=764ABC)
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#61DAFB)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-react_js-black?style=for-the-badge&logo=react&logoColor=61dafb)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-2196F3?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05030)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=#FF7362)
+![Figma](https://img.shields.io/badge/-Figma-FF7362?style=for-the-badge&logo=Figma&logoColor=white)
 
 <br/>
 
