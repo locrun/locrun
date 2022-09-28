@@ -5,7 +5,7 @@
 ## В работе использую следующий стек технологий и инструменты
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![React](https://img.shields.io/badge/-react_js-black?style=for-the-badge&logo=react&logoColor=61dafb)
 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
