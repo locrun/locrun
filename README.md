@@ -11,7 +11,8 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-2196F3?style=for-the-badge&logo=CSS3&logoColor=white)
-![CSS3](https://img.shields.io/badge/-SASS-2196F3?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-2196F3?style=for-the-badge&logo=SASS&logoColor=white)
+![LESS](https://img.shields.io/badge/-LESS-2196F3?style=for-the-badge&logo=LESS&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05030)
 ![Figma](https://img.shields.io/badge/-Figma-FF7362?style=for-the-badge&logo=Figma&logoColor=white)
