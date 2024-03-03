@@ -19,5 +19,5 @@
 
 ## Я всегда на связи в Telegram
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/rN_el)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=social&logo=Telegram)](https://t.me/runar_n)
 
